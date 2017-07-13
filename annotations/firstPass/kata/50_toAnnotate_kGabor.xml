@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<corpus>
+
+<paper id="P06-1111"><title><entity>Prototype-</entity>Driven <entity>Grammar Induction</entity></title><abstract>
+We investigate <entity>prototype-driven</entity> labels, <entity>locations</entity>.
+</abstract></paper>
+
+<paper id="C90-3060"><title>
+VIRTEX - A German-Russlan <entity>Translation</entity> <entity>Experiment</entity></title><abstract></abstract></paper>
+
+<paper id="C04-1011"><title>
+Kullback-Leibler <entity>Distance</entity> Between Probabilistic <entity>Context-</entity>Free Grammars And Probabilistic Finite <entity>Automata</entity></title><abstract>
+We consider the <entity>problem</entity> of <entity>computing</entity> the Kullback-Leibler <entity>distance</entity>, also <entity>called</entity> the <entity>relative</entity> <entity>entropy</entity>, between a probabilistic <entity>context-free</entity> grammar and a probabilistic finite automaton. We show that there is a <entity>closed-form</entity> (analytical) <entity>solution</entity> for one <entity>part</entity> of the Kullback-Leibler <entity>distance</entity>, viz. the <entity>cross-entropy</entity>. We discuss several <entity>applications</entity> of the <entity>result</entity> to the <entity>problem</entity> of distributional <entity>approximation</entity> of probabilistic <entity>context-free</entity> grammars by means of probabilistic finite automata.
+</abstract></paper>
+
+<paper id="E06-3005"><title><entity>Developing</entity> An <entity>Approach</entity> For Why-<entity>Question Answering</entity></title><abstract>
+In the <entity>current</entity> <entity>project</entity>, we aim at <entity>developing</entity> an <entity>approach</entity> for automatically answering why-questions. We created a<entity>data</entity> <entity>collection</entity> for <entity>research</entity>, <entity>development</entity> and <entity>evaluation</entity> of a <entity>method</entity> for automatically answering why-questions (why-QA) whywhywhy
+</abstract></paper>
+
+<paper id="A94-1037"><title>
+Spelling <entity>Correction</entity> In Agglutinative <entity>Languages</entity></title><abstract><entity>Methods</entity> <entity>developed</entity> for <entity>spelling</entity> <entity>correction</entity> for <entity>languages</entity> like <entity>English</entity> (see the <entity>review</entity> by <PERSON>Kukich</PERSON> (Ku-kich, 1992)) are not readily applicable to agglutinative <entity>languages</entity>. This poster presents an <entity>approach</entity> to <entity>spelling</entity> <entity>correction</entity> in agglutinative <entity>languages</entity> that is <entity>based</entity> on <entity>two-level</entity> <entity>morphology</entity> and a <entity>dynamic-programming</entity> <entity>based</entity> <entity>search algorithm</entity>. After an <entity>overview</entity> of our <entity>approach</entity>, we present <entity>results</entity> from <entity>experiments</entity> with <entity>spelling</entity> <entity>correction</entity> in Turkish.
+</abstract></paper>
+
+<paper id="H94-1102"><title><entity>Robust</entity> <entity>Continuous Speech Recognition</entity> <entity>Technology</entity> <entity>Program</entity> <entity>Summary</entity></title><abstract>
+The major <entity>objective</entity> of this <entity>program</entity> is to <entity>develop</entity> and demonstrate <entity>robust</entity>, high <entity>performance</entity> <entity>continuous speech recognition</entity> (CSR) <entity>techniques</entity> focussed on <entity>application</entity> in <entity>Spoken Language</entity> <entity>Systems</entity> (SLS) which will enhance the <entity>effectiveness</entity> of military and civilian <entity>computer-based systems</entity>. A key complementary <entity>objective</entity> is to define and <entity>develop</entity> <entity>applications</entity> of <entity>robust</entity> <entity>speech recognition</entity> and <entity>understanding systems</entity>, and to <entity>help</entity> catalyze the <entity>transition</entity> of spoken <entity>language technology</entity> into military and civilian <entity>systems</entity>, with particular <entity>focus</entity> on <entity>application</entity> of <entity>robust</entity> CSR to mobile military command and <entity>control</entity>. The <entity>research</entity> <entity>effort</entity> focusses on <entity>developing</entity> <entity>advanced</entity> acoustic modelling, rapid <entity>search</entity>, and <entity>recognition-time</entity> <entity>adaptation</entity> <entity>techniques</entity> for <entity>robust</entity> <entity>large-vocabulary</entity> CSR, and on <entity>applying</entity> these <entity>techniques</entity> to the new ARPA <entity>large-vocabulary</entity> CSR <entity>corpora</entity> and to military <entity>application</entity> <entity>tasks</entity>.
+</abstract></paper>
+
+<paper id="P98-1118"><title>
+A <entity>Framework</entity> for Customizable <entity>Generation</entity> of <entity>Hypertext</entity> Presentations
+</title><abstract>
+In this <entity>paper</entity>, we present a <entity>framework</entity>, Presentor, for the <entity>development</entity> and customization of <entity>hypertext</entity> <entity>presentation</entity> <entity>generators</entity>. Presentor offers intuitive and powerful declarative <entity>languages</entity> specifying the <entity>presentation</entity> at different <entity>levels</entity>: macro-planning, micro-planning, <entity>realization</entity>, and <entity>formatting</entity>. Presentor is <entity>implemented</entity> and is portable <entity>cross-platform</entity> and <entity>cross-domain</entity>. It has been used with <entity>success</entity> in several <entity>application</entity> <entity>domains</entity> <entity>including</entity> weather forecasting, <entity>object</entity> <entity>modeling</entity>, <entity>system</entity> <entity>description</entity> and <entity>requirements</entity> <entity>summarization</entity>.
+</abstract></paper>
+
+</corpus>
