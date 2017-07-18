@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<corpus>
+
+<paper id="C90-3063"><title>Automatic Processing Of Large <entity>Corpora</entity> For The <entity>Resolution Of Anaphora References</entity>
+</title><abstract>
+<entity>Manual acquisition</entity> of <entity>semantic constraints</entity> in broad domains is very expensive. This paper presents an automatic scheme for collecting statistics on <entity>cooccurrence patterns</entity> in a large <entity>corpus</entity>. To a large extent, these statistics reflect <entity>semantic constraints</entity> and thus are used to disambiguate <entity>anaphora references</entity> and <entity>syntactic ambiguities</entity>. The scheme was implemented by gathering statistics on the output of other linguistic tools. An experiment was performed to resolve <entity>references</entity> of the <entity>pronoun</entity> ""it"" in <entity>sentences</entity> that were randomly selected from the <entity>corpus</entity>. The results of the experiment show that in most of the cases the <entity>cooccurrence statistics</entity> indeed reflect the <entity>semantic constraints</entity> and thus provide a basis for a useful <entity>disambiguation tool</entity>.
+</abstract></paper>
+
+<paper id="P06-1112"><title>
+Exploring Correlation Of <entity>Dependency Relation Paths</entity> For <entity>Answer Extraction</entity></title><abstract>
+In this paper, we explore correlation of <entity>dependency relation paths</entity> to rank candidate answers in <entity>answer extraction</entity>. Using the <entity>correlation measure</entity>, we compare <entity>dependency relations</entity> of a candidate answer and mapped <entity>question phrases</entity> in <entity>sentence</entity> with the corresponding relations in question. Different from previous studies, we propose an <entity>approximate phrase mapping algorithm</entity> and incorporate the <entity>mapping score</entity> into the <entity>correlation measure</entity>. The correlations are further incorporated into a <entity>Maximum Entropy-based ranking model</entity> which estimates <entity>path weights</entity> from training. Experimental results show that our method significantly outperforms state-of-the-art <entity>syntactic relation-based methods</entity> by up to 20% in <entity>MRR</entity>.
+</abstract></paper>
+
+<paper id="C04-1011"><title>
+<entity>Kullback-Leibler Distance</entity> Between <entity>Probabilistic Context-Free Grammars</entity> And <entity>Probabilistic Finite Automata</entity></title><abstract>
+
+We consider the problem of computing the <entity>Kullback-Leibler distance</entity>, also called the <entity>relative entropy</entity>, between a <entity>probabilistic context-free grammar</entity> and a <entity>probabilistic finite automaton</entity>. We show that there is a closed-form (analytical) solution for one part of the <entity>Kullback-Leibler distance</entity>, viz. the <entity>cross-entropy</entity>. We discuss several applications of the result to the problem of <entity>distributional approximation</entity> of <entity>probabilistic context-free grammars
+</entity> by means of <entity>probabilistic finite automata</entity>.
+
+</abstract></paper>
+<paper id="E06-3005"><title>Developing An Approach< For <entity>Why-Question Answering</entity></title><abstract>
+In the current project, we aim at developing an approach for automatically answering <entity>why-questions</entity>. We created a data collection for research, development and evaluation of a method for automatically answering <entity>why-questions (why-QA)</entity> whywhywhy
+</abstract></paper>
+
+<paper id="A94-1037"><title>
+
+<entity>Spelling Correction</entity> In <entity>Agglutinative Languages</entity></title>
+<abstract>Methods developed for <entity>spelling correction</entity> for <entity>languages</entity> like <entity>English</entity> (see the review by <PERSON>Kukich</PERSON> (Ku-kich, 1992)) are not readily applicable to <entity>agglutinative languages</entity>. This poster presents an approach to <entity>spelling correction</entity> in <entity>agglutinative languages</entity> that is based on <entity>two-level morphology</entity> and a <entity>dynamic-programming based search algorithm</entity>. After an overview of our approach, we present results from experiments with <entity>spelling correction</entity> in <entity>Turkish</entity>.
+</abstract></paper>
+
+<paper id="H94-1102"><title>Robust <entity>Continuous Speech Recognition Technology</entity> Program Summary</title><abstract>
+
+The major objective of this program is to develop and demonstrate robust, high performance <entity>continuous speech recognition (CSR) techniques</entity> focussed on application in <entity>Spoken Language Systems (SLS)</entity> which will enhance the effectiveness of military and civilian <entity>computer-based systems</entity>. A key complementary objective is to define and develop applications of robust <entity>speech recognition and understanding systems</entity>, and to help catalyze the transition of <entity>spoken language technology</entity> into military and civilian systems, with particular focus on application of robust <entity>CSR</entity> to mobile military command and control. The research effort focusses on developing advanced <entity>acoustic modelling</entity>, rapid search, and recognition-time adaptation techniques for robust <entity>large-vocabulary CSR</entity>, and on applying these techniques to the new ARPA <entity>large-vocabulary CSR corpora</entity> and to military application tasks.
+
+</abstract></paper>
+
+<paper id="P98-1118"><title>
+A Framework for Customizable <entity>Generation</entity> of <entity>Hypertext Presentations</entity></title>
+<abstract>
+In this paper, we present a framework, <entity>Presentor</entity>, for the development and customization of <entity>hypertext presentation generators</entity>. <entity>Presentor</entity> offers intuitive and powerful <entity>declarative languages</entity> specifying the presentation at different levels: macro-planning, micro-planning, realization, and formatting. <entity>Presentor</entity> is implemented and is portable cross-platform and cross-domain. It has been used with success in several application domains including weather forecasting, <entity>object modeling</entity>, system description and <entity>requirements summarization</entity>.
+
+</abstract></paper>
+</corpus>
