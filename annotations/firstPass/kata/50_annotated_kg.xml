@@ -40,4 +40,13 @@ A Framework for Customizable <entity>Generation</entity> of <entity>Hypertext Pr
 In this paper, we present a framework, <entity>Presentor</entity>, for the development and customization of <entity>hypertext presentation generators</entity>. <entity>Presentor</entity> offers intuitive and powerful <entity>declarative languages</entity> specifying the presentation at different levels: macro-planning, micro-planning, realization, and formatting. <entity>Presentor</entity> is implemented and is portable cross-platform and cross-domain. It has been used with success in several application domains including weather forecasting, <entity>object modeling</entity>, system description and <entity>requirements summarization</entity>.
 
 </abstract></paper>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<corpus>
+
+<paper id="P06-1053"><title>
+Integrating <entity>Syntactic</entity> Priming Into An Incremental Probabilistic <entity>Parser</entity>, With An <entity>Application</entity> To Psycholinguistic <entity>Modeling</entity></title><abstract>
+The psycholinguistic <entity>literature</entity> <entity>provides</entity> <entity>evidence</entity> for <entity>syntactic</entity> priming, i.e., the tendency to repeat <entity>structures</entity>. This <entity>paper</entity> describes a <entity>method</entity> for incorporating priming into an incremental probabilistic <entity>parser</entity>. Three <entity>models</entity> are compared, which involve priming of <entity>rules</entity> between <entity>sentences</entity>, within <entity>sentences</entity>, and within coordinate <entity>structures</entity>. These <entity>models</entity> simulate the reading <entity>time</entity> <entity>advantage</entity> for parallel <entity>structures</entity> found in human data, and also <entity>yield</entity> a small <entity>increase</entity> in overall <entity>parsing</entity> <entity>accuracy</entity>.
+</abstract></paper>
+
 </corpus>
